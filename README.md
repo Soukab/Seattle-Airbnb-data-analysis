@@ -19,7 +19,7 @@ Three bisinuess questions were asked and answered:
 
 ## Results of the analysis
 
-Results and discussion were published on Medium: (https://medium.com/)
+Results and discussion were published on Medium: (https://medium.com/@abelhad.soukaina/what-airbnb-data-in-seattle-say-bdec18b5fb3b)
    
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
 - We gathered Seattle Airbnb data, and cleaned it.
